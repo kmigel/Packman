@@ -2,7 +2,7 @@
 Remake of the original Packman using C++ and [SFML library](https://www.sfml-dev.org/).
 
 ## About the project
-This game isn't identical to the original Pakcman. Packman mechanics and the goal are the same. What is different are the ghosts. In this game they do not have an AI or any particular behaviour. Their movement is completely random. They are moving forward until a turn is available. Then they randomly decide if they want to take a turn or continue the movement (if it's possible). Also both the ghosts and the packman can use the teleport on the sides of the map. When they enter on one side, they then appear on the other side of the map.
+This game isn't identical to the original Packman. Packman mechanics and the goal are the same. What is different are the ghosts. In this game they do not have an AI or any particular behaviour. Their movement is completely random. They are moving forward until a turn is available. Then they randomly decide if they want to take a turn or continue the movement (if it's possible). Also both the ghosts and the packman can use the teleport on the sides of the map. When they enter on one side, they then appear on the other side of the map.
 
 This is what the gameplay looks like.
 <p align="center">
