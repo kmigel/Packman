@@ -26,4 +26,5 @@ Download and launch Packman.exe.
 Control packman with arrow keys. The goal is to collect all the white dots without running into one of the ghosts. To restart the game you need to close the window and launch Packman.exe again.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+Copyright © 2023, [Kristina Migel](https://github.com/kmigel).
+Released under the [MIT License](https://choosealicense.com/licenses/mit/).
